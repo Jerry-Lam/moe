@@ -1,0 +1,21 @@
+频道（分区）Channel 
+子频道（二级分区）SubChannel 
+（视频）video分P视频（Episode分集）
+yarn upgrade-interactive --latest升级项目依赖命令
+
+
+js基本类型Number、String、Boolean、Null、 Undefined、Symbol
+js引用类型Object（在JS中除了基本数据类型以外的都是对象，数据是对象，函数是对象，正则表达式是对象）
+
+a=1
+b=a
+
+当b=3不会改a的值
+//传值，内存数据复制一份，指针指向不同的内存地址，内存地址的值相同
+a= { x：1 }
+b=a
+
+当b.x=2，a也改变
+//传址，两个变量指针指向相同内存地址，内存地址的值改变两个变量同时改变
+
+
